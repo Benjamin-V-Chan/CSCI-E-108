@@ -1,1 +1,1 @@
-# CSCI-E-108
+# CSCI-E-108-personal-repository
